@@ -5,6 +5,7 @@ import '../styles/Cart.css';
 function Cart() {
   const cartItems = useSelector((state) => state.cart.items);
 
+
   return (
     <div className="cart">
       <h2>Your Cart</h2>

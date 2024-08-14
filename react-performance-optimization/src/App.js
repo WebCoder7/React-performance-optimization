@@ -8,6 +8,7 @@ function App() {
   const products = [
     { id: 1, name: 'Apple', description: 'red' },
     { id: 2, name: 'Banan', description: 'yellow' },
+    
     { id: 2, name: 'Gilos', description: 'qizil' },
     { id: 2, name: 'Tarvuz', description: 'qizil' },
   ];
